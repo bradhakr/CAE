@@ -22,6 +22,6 @@ Please refer to the Blog for more details on architecture and context for this C
 ## Step 3: Using Gateway Migration Utility load the CAE Policy bundle into the gateway: 
   > Enclosed in this repository.
  
-  [Revoke Token Bundle] /blob/main/apim-gw101-Source-revokeToken.xml
+  [Revoke Token Bundle] https://github.com/bradhakr/CAE.git
  
  
