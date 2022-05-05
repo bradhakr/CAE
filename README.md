@@ -13,15 +13,18 @@ Please refer to the Blog for more details on architecture and context for this C
 ## Step 2: Deploy Layer7 APIM Gateway with required JMS library for communicating with message Broker.
   > Please refer to the following links for more details on deployment and also JMS configuration:
 
-1. Layer7 APIM Deployment in GCP using Helm Charts: 
+### 1. Layer7 APIM Deployment in GCP using Helm Charts: 
         a. https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/install-configure-upgrade.html
         b. https://github.com/CAAPIM/apim-charts
-2. Installing and configuring JMS interface with Gateway:
+### 2. OAuth Tool Kit COnfiguration
+        a. https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-management-oauth-toolkit/4-5/installation-workflow.html
+### 4. Installing and configuring JMS interface with Gateway:
         a. https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/security-configuration-in-policy-manager/tasks-menu-security-options/manage-jms-destinations/install-the-jms-interface.html
 
 ## Step 3: Using Gateway Migration Utility load the CAE Policy bundle into the gateway: 
   > Enclosed in this repository.
  
-  [Revoke Token Bundle] https://github.com/bradhakr/CAE.git
+ ### 1. Revoke Token Bundle:
+        a. https://github.com/bradhakr/CAE.git
  
  
