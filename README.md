@@ -14,8 +14,8 @@ Please refer to the Blog for more details on architecture and context for this C
   > Please refer to the following links for more details on deployment and also JMS configuration:
 
 ### 1. Layer7 APIM Deployment in GCP using Helm Charts: 
-        - https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/install-configure-upgrade.html
-        - https://github.com/CAAPIM/apim-charts
+        -  https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/install-configure-upgrade.html
+        -  https://github.com/CAAPIM/apim-charts
 ### 2. OAuth Tool Kit Configuration
         - https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-management-oauth-toolkit/4-5/installation-workflow.html
 ### 4. Installing and configuring JMS interface with Gateway:
