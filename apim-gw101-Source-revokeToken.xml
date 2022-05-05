@@ -5,7 +5,7 @@
             <l7:Name>RevokeToken</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4106</l7:Id>
             <l7:Type>FOLDER</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.027Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.158Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Folder folderId="0000000000000000ffffffffffffec76" id="b52c803a0665a111a71a2482857d4106" version="1">
                     <l7:Name>RevokeToken</l7:Name>
@@ -16,7 +16,7 @@
             <l7:Name>cluster.hostname</l7:Name>
             <l7:Id>0000000000000000fffffffffff5519f</l7:Id>
             <l7:Type>CLUSTER_PROPERTY</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.027Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.158Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:ClusterProperty id="0000000000000000fffffffffff5519f" version="1">
                     <l7:Name>cluster.hostname</l7:Name>
@@ -28,7 +28,7 @@
             <l7:Name>ssl</l7:Name>
             <l7:Id>00000000000000000000000000000002:ssl</l7:Id>
             <l7:Type>SSG_KEY_ENTRY</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.379Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.497Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:PrivateKey alias="ssl" id="00000000000000000000000000000002:ssl" keystoreId="00000000000000000000000000000002">
                     <l7:CertificateChain>
@@ -56,7 +56,7 @@
                             <l7:StringValue>RSA</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="keyData">
-                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,n760uRg2JAD4IZRwkgu2yQ2+L99cY1bTaxq5rT7jWQQ=$PrgWHzVheb2RMZzwAZemnSsAZgLm6IlmR1Njvs2DdUAk/fBs1eQ7lbmzD8cfiWPNQ8sZ+v4iSPZz3toZ51O/6V/+7u3CfRM0HVHOdp7DbvzlqS3xbRfegVYBgdkCbLsV">$L7C2$1,WiNKz4TUOUmrnEobBhimjKXT0kVmAFt7N8G3vXg+S3w=$o3xjdMBJVnFSrvXh9KMKbIvljqZjVHXjN62zqFj1eFoVOygsALmoMTo1UXSpjvWJ1NL+cIMUn1nBurjjm60pTpWumDEWTMaDCNcN9AWWlEkEWwc/mwlN49B3FFPDizITMcp/2rHI23ZA8arrASt1YCNOdmZRBt6QHSeUdBkqJ0a+pLoMsapOVAdWwR7I6A3yRhvSdkwzARG9hW9p/SwF5m+kvJYpJPncPnGeuHdnrOsGyiyPYflGHX/h2v4FJrheKtriBenbMcl2Xsc2iXWarbMtkh+wi5MCs4U59Iig8o15q6GEOwHPZZhXNKG3yaLKvVK9jDJNqlgCWRs9ENQWYIZ+IOaaBjYzzl5qn+5u/i49JD9RYDMWM5LzDvsA+5gx9a29WcgoKbo0/t6Es0eXeLflvGEO+8pm5HdVED433lzYqhzxYKKlsS/j4et5ZTT8U7HMQROsXxFpAgtcvq3B/NOtSRR8Ht4OqhJurBk5tG2+VX0065rF2tF7qQgtUgoIzURN3QAzKOyvpWRSsTJ/mVEuoGYZmqZqgGEr7HJj53y518zWvgX241dDnONQHtMCVMrMeC/bNfc03VAcaazlZ3jclERXPxMSgyLIsaL77PUo1N3L6PvjXWyTAkNeLp+qx+9r3l4oA0NLaItM59gt9kk4SR3yrLBn9p0/d1liebfX5Bz7ttjDjYWMs/270WSfjjWJ4N7soMazy3PJSmtmdIq5piLaIIEpZpQJEVUOKORnjPGjnuoNGZyp62bL+bopC5rfYCkLhavCAyvx4KmKAnPCSutEtw14BPVJKMyiAO9zrmzz29ltYyeS9T/viRRfmVgZh2idlrVsqOMEc2v1TYD09U1xxK41wOmmUofiJJ1/CWay0VnMJZpfeHuQBd98/pzPhtzREOEz+VfJxSj9QlQBFbSkIquz7y+5m/p4yPstft4HvPffreCYZXY3KrvZvzQ5fi/bYrK0YllqI/26xG+bT1vo8nXqMfv7J4Y9i44WDBcO9zAmUD1/7m9TVMzZOfn70jAlwTGfodC94hiJ880ea+gCrhq4rzMy4iL9XAaSqghJ78U/hAr5u6H8PkF6tGXZQPMBdYeQ8jeMEOOG9QcSiZkhNQ5BGrnD7WwmWG41Y2fR36ZJnq5+gp7tNIWgzGGt++iXWg/TYQ1difnxVbHS5ZIXFXKzJymj79I9yyACXxhmS5tGP1D3Ky4VOKy6Aqqs9WUXkalMXrbnQzvp2biEmz03jTl6zaOMTzGFjWcxSDnrq0IDvl5W0Aa0HRnqFXHyn2bTCvhaqyQTXVTKChttk8+Q7ZI5JN1jtc/RaGUmFiqHjaw7yefCKkqhg+CNZ8Fr6C9HhoLT88ExmysIxgYu2dsEE9fpUIjgaieKGakp97c2xk7jbI5no6IN4hCrqcRaG7FzTq4BlRTeAJY2Nvr98yXBcdwVQDedIzBFntiyandZXTU/ji235AmdBqP+ndMdzgo2a/dYHvzWFyQ3i7ADAs9KQNOJZHOsXPepZl9rG6GoruNJjjX++cPoTDSQW87fU0XIwOXQ/awfj0wNPNnmCh7Dm9gdTG+RkZAUfi9DRFRdLH0rUegss0YS8drpAsUaei5TlojlpxZ+CRTMwEdiV0YFxx9ApFeO4wjUXqcGPbBJN7TVtMO20aSOXdofG469ywSAuIV1o3oqDKflHNE+ZUQsCd/Mzjubw1Ru7Zw=</l7:StringValue>
+                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,HsOKU7XqIBI8theTiljbQPzgYQfBmI2o60CEKypXTSY=$omsZH+z9I1AZbVvNuYHZ3wo3tquF3/YilbuFDL9poEszQK3iwf2TPbeib4UFLaou0ivDIW9sjZsfnyuNv0o04PR1zrGtIZayiF+LjRtAyydbUgwfQdRPHIXwwqYbCARBdMsTRw/lMLnF7pjZ7UdVWqPm/B0DFfgct41MWmHOYH92fGd74nsdFVlfZUjLAAyFKViWb5EkgINTZPM70wf4q5WsLSa3eDpsNT1hz8IkU3gX49B5p9rSsxAaA01Asb/+VLghSCt90uvCi9kF+li8lr+qj9XT2nIX7s3IooR5GNKWYr6rLpOm0EdM9Jy54vUvAs5TPU+NIQlW4C8dzZ/iWcFapeElp3E/i+rShmotyNQ07qp5dZ4VFoBjxuUvThYJ4fwa7rVfh05YwqH0QkxszYzOK17VZcZN1Rr4hpPZNUl2KSyD3SJDU6f7mlFZ5LZLOI6d++cj/JsQmZOIbdcfTWbYwylWQtEHTyIXc2y5+SQscLyYZhYHJmY/8f/6/JnwP/AmiHM4YCxqwaJyn6r7MiHz9uxzAgkurwMDHteB5YIw25z/n/1sTzvFDrIwAZGt2p8WwJFX75IhAsTiiRkTCWo8kJYoOUWdUUBR/dU0WsfFsHQS5z0tRtzZhqd+wPEyIquKj6lipW/dJsjEEmkqxHnMO35eUD9jce5nXB0ilZWjYzJTFe6DjMlnTnnLBUbWlrDBjUe/EFDEkE1+eH2hJjmzk4+Y4bSYg82AeLJ0RIoCXp+gyuwksgPpopEg3rzsz6ec1eEGQRfgG3ESeQFHp2/EZ+GvAhzsCAyeAEQ2uV1aAdVrbGZRc86bmpC4c90n9H5sQHMJ9xEG/WOsquWzlKO9xBL+KSX6dl1zjecLrs9HaS9ikB7DCSk8EUcRVmwdxJCa79ph+PNZGPqHtsKnbLVWkcgJ+uK8SDs3APwN05KW+U6t7K4s8KtEIWWuap4i/rk6cEi8GrMidWCuBSYBydtWEz8IR9z3uil5dV7Vrz4FOayq6HMMRC6vT69WtLsI4YUheBUTVemVCI0BYQXOQV6A/ya6WGeYtk1tig0S9lMFLGbh3Odju1Sxq3nI+fg26NZBeHNoLKz23uC78COfGG4gPvI4ek4oCBu0qxmiVoT2ZZOIPunp9lUKixPqfCoxufjWDFfOx+o4IpGq8l2wT84xYpSFLcS2zOPC2/wxfImAOJWuEpE/AabhKZu3qRfMMRtXv8KbvM8/gxziuKg9HtjwiHHY7IHBBCPThB5C1XqAkYwbuk6D1LcKanjgWc7oOA/OBh1wYqRA2naMTKgOMXjbtKHMXUH9NkicT4cmcZyEtEpVGBDk68Xcifk3y/HlI70ZbBtieUgBW2nQQr3lLgaoER+6yWkCn519Cn+U1udT5lWjBrrPtNx+P6aM/RpddxuwxOBUx+/WGfHu+/Op2nOgxyGiuNmh3Kv+aFbi5fJIjjwincfg8yrcbGDhQ1ATDHHaUdZPZeX7oyiXS+B/wqPbfCWthMpatuHpN8LPvghyOs8Xi1VsBuYEt3lVnpeDNBgg8jM3rPXS81DngxGmVoIsaOhOQy3USVSdT3s9hPcHKyfN3RGr36UgHlU8gwOpqf6QcRQCdilwUDMiJM55VQ+eq7VR3T47cNhkgqtj35El1GhawS23cS2L9AmN/oB3nKTe346Auy05RcrhyJbnqHvnEBl2tb/nbAJ4wvDr64o=</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="specialPurposes">
                             <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -69,7 +69,7 @@
             <l7:Name>3rd Party OIDC Provider - SSP</l7:Name>
             <l7:Id>4c44523e799f8f88a0affbb87e6b2a63</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.452Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.531Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="4c44523e799f8f88a0affbb87e6b2a63" version="3">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="4c44523e799f8f88a0affbb87e6b2a63" version="3">
@@ -94,7 +94,7 @@
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
                             <l7:Property key="policyRevision">
-                                <l7:LongValue>28</l7:LongValue>
+                                <l7:LongValue>29</l7:LongValue>
                             </l7:Property>
                             <l7:Property key="soap">
                                 <l7:BooleanValue>false</l7:BooleanValue>
@@ -109,9 +109,27 @@
                     </l7:ServiceDetail>
                     <l7:Resources>
                         <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="27">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+                            <l7:Resource type="policy" version="28">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API :- &amp;lt;Enter the API Name&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API Group :- &amp;lt;Enter the API Group&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API TYPE :- &amp;lt;REST/SOAP/DATA&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="Author: Balaji Radhakrishnan"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
         &lt;wsp:All wsp:Usage="Required"&gt;
             &lt;L7p:SetVariable&gt;
                 &lt;L7p:Base64Expression stringValue="MTM2OTk2MGItMTM3YS00NzA4LWJjNDgtNGUzN2EyZjJjMGZhOmRmNTgzNjI4LTEzZmMtNDdhNy1hYWJmLWQ3OTQ5ZjQ0NWFiNw=="/&gt;
@@ -298,773 +316,10 @@
             </l7:Resource>
         </l7:Item>
         <l7:Item>
-            <l7:Name>OAUTH2 - AuthCode Flow With Token Response</l7:Name>
-            <l7:Id>4c44523e799f8f88a0affbb87e6b6077</l7:Id>
-            <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.510Z</l7:TimeStamp>
-            <l7:Resource>
-                <l7:Service id="4c44523e799f8f88a0affbb87e6b6077" version="2">
-                    <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="4c44523e799f8f88a0affbb87e6b6077" version="2">
-                        <l7:Name>OAUTH2 - AuthCode Flow With Token Response</l7:Name>
-                        <l7:Enabled>true</l7:Enabled>
-                        <l7:ServiceMappings>
-                            <l7:HttpMapping>
-                                <l7:UrlPattern>/oauth/code/getToken</l7:UrlPattern>
-                                <l7:Verbs>
-                                    <l7:Verb>GET</l7:Verb>
-                                    <l7:Verb>POST</l7:Verb>
-                                    <l7:Verb>PUT</l7:Verb>
-                                    <l7:Verb>DELETE</l7:Verb>
-                                </l7:Verbs>
-                            </l7:HttpMapping>
-                        </l7:ServiceMappings>
-                        <l7:Properties>
-                            <l7:Property key="hasRouting">
-                                <l7:BooleanValue>true</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="internal">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="policyRevision">
-                                <l7:LongValue>6</l7:LongValue>
-                            </l7:Property>
-                            <l7:Property key="soap">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="tracingEnabled">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="wssProcessingEnabled">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                        </l7:Properties>
-                    </l7:ServiceDetail>
-                    <l7:Resources>
-                        <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="5">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
-    &lt;wsp:All wsp:Usage="Required"&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="************************************************************"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="API :- Get OTK TOKENS"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="API Group :- API Security"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="API TYPE :- &amp;lt;REST/SOAP/DATA&gt;"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="Author: Balaji Radhakrishnan"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;L7p:CommentAssertion&gt;
-            &lt;L7p:Comment stringValue="************************************************************"/&gt;
-        &lt;/L7p:CommentAssertion&gt;
-        &lt;wsp:All wsp:Usage="Required"&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue=""/&gt;
-                &lt;L7p:VariableToSet stringValue="error"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:CustomizeErrorResponse&gt;
-                &lt;L7p:Content stringValue="${error}"/&gt;
-                &lt;L7p:ContentType stringValue="application/json; charset=UTF-8"/&gt;
-                &lt;L7p:ExtraHeaders nameValuePairArray="included"/&gt;
-            &lt;/L7p:CustomizeErrorResponse&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="EXCEPTION HANDLING"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Exception handling for route statements"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:All&gt;
-        &lt;wsp:All wsp:Usage="Required"&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAucGFyYW1ldGVyLmNsaWVudF9pZH0="/&gt;
-                &lt;L7p:VariableToSet stringValue="clientID"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="clientID"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="clientID"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAucGFyYW1ldGVyLmNsaWVudF9zZWNyZXR9"/&gt;
-                &lt;L7p:VariableToSet stringValue="clientSecret"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="clientSecret"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="clientSecret"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="b3BlbmlkIGVtYWlsIHByb2ZpbGUgb3BlbmlkX2NsaWVudF9yZWdpc3RyYXRpb24="/&gt;
-                &lt;L7p:VariableToSet stringValue="scope"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="scope"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="scope"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="aHR0cHM6Ly9zb2FwdWkuY2EuY29tL2NpYmMvY2xpZW50"/&gt;
-                &lt;L7p:Enabled booleanValue="false"/&gt;
-                &lt;L7p:VariableToSet stringValue="redirectURL"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="aHR0cHM6Ly8ke2dhdGV3YXkuY2x1c3Rlci5ob3N0bmFtZX0vb3RrL2NhbGxiYWNr"/&gt;
-                &lt;L7p:VariableToSet stringValue="redirectURL"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="redirectURL"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="redirectURL"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0LnRpbWUuRVNULmhobW1zc30="/&gt;
-                &lt;L7p:VariableToSet stringValue="state"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="state"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="state"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="b2xkLWlkLXRva2Vu"/&gt;
-                &lt;L7p:VariableToSet stringValue="hint"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="hint"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="hint"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAucGFyYW1ldGVyLnJlc3BvbnNlX3R5cGV9"/&gt;
-                &lt;L7p:VariableToSet stringValue="respType"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:EncodeDecode&gt;
-                &lt;L7p:SourceVariableName stringValue="respType"/&gt;
-                &lt;L7p:TargetDataType variableDataType="string"/&gt;
-                &lt;L7p:TargetVariableName stringValue="respType"/&gt;
-                &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
-            &lt;/L7p:EncodeDecode&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="bG9naW4="/&gt;
-                &lt;L7p:VariableToSet stringValue="prompt"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAucGFyYW1ldGVyLnVzZXJuYW1lfQ=="/&gt;
-                &lt;L7p:VariableToSet stringValue="user"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAucGFyYW1ldGVyLnBhc3N3b3JkfQ=="/&gt;
-                &lt;L7p:VariableToSet stringValue="password"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="VARIABLES Assignment"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Variables for the Authorize/Login/Consent routes"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:All&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:HttpMethod httpMethod="GET"/&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}:8443/.well-known/openid-configuration"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;wsp:All wsp:Usage="Required"&gt;
-                    &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-                        &lt;L7p:Expression stringValue="authorization_endpoint"/&gt;
-                        &lt;L7p:Target target="RESPONSE"/&gt;
-                        &lt;L7p:VariablePrefix stringValue="authEP"/&gt;
-                    &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-                    &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-                        &lt;L7p:Expression stringValue="token_endpoint"/&gt;
-                        &lt;L7p:Target target="RESPONSE"/&gt;
-                        &lt;L7p:VariablePrefix stringValue="tokenEP"/&gt;
-                    &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-                    &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-                        &lt;L7p:Expression stringValue="userinfo_endpoint"/&gt;
-                        &lt;L7p:Target target="RESPONSE"/&gt;
-                        &lt;L7p:VariablePrefix stringValue="userEP"/&gt;
-                    &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-                    &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-                        &lt;L7p:Expression stringValue="scopes_supported"/&gt;
-                        &lt;L7p:Target target="RESPONSE"/&gt;
-                        &lt;L7p:VariablePrefix stringValue="scopeSP"/&gt;
-                    &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-                &lt;/wsp:All&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiSldLUyBDb25maWd1cmF0aW9uIEZhaWx1cmUiLA0KICAgIkRlc2NyaXB0aW9uIjoiUm91dGUgRmFpbHVyZSwgcGxlYXNlIGNoZWNrIHdpdGggYWRtaW4iDQogICAiUmVzcG9uc2UiOiIke3Jlc3BvbnNlLm1haW5wYXJ0fSINCn0="/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="OIDC CONFIGURATION"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Route to retrieve OIDC confgurations"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="P2NsaWVudF9pZD0ke2NsaWVudElEfSZyZXNwb25zZV90eXBlPSR7cmVzcFR5cGV9JnJlZGlyZWN0X3VyaT0ke3JlZGlyZWN0VVJMfSZzY29wZT0ke3Njb3BlfSZzdGF0ZT0ke3N0YXRlfSZwcm9tcHQ9JHtwcm9tcHR9JmlkX3Rva2VuX2hpbnQ9JHtoaW50fQ=="/&gt;
-                    &lt;L7p:VariableToSet stringValue="query"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="${authEP.results[0]}${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:Enabled booleanValue="false"/&gt;
-                    &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="${authEP.results[0]}${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;wsp:All wsp:Usage="Required"&gt;
-                    &lt;L7p:ComparisonAssertion&gt;
-                        &lt;L7p:CaseSensitive booleanValue="false"/&gt;
-                        &lt;L7p:Expression1 stringValue="${httpRouting.reasonCode}"/&gt;
-                        &lt;L7p:Operator operatorNull="null"/&gt;
-                        &lt;L7p:Predicates predicates="included"&gt;
-                            &lt;L7p:item dataType="included"&gt;
-                                &lt;L7p:Type variableDataType="int"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item binary="included"&gt;
-                                &lt;L7p:RightValue stringValue="302"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Predicates&gt;
-                    &lt;/L7p:ComparisonAssertion&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5odHRwLmhlYWRlci5sb2NhdGlvbn0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="location"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:Split&gt;
-                        &lt;L7p:IgnoreEmptyValues booleanValue="true"/&gt;
-                        &lt;L7p:InputVariable stringValue="location"/&gt;
-                        &lt;L7p:OutputVariable stringValue="authResp"/&gt;
-                        &lt;L7p:SplitPattern stringValue="&amp;amp;"/&gt;
-                    &lt;/L7p:Split&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHthdXRoUmVzcFswXX0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="action"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:Split&gt;
-                        &lt;L7p:IgnoreEmptyValues booleanValue="true"/&gt;
-                        &lt;L7p:InputVariable stringValue="action"/&gt;
-                        &lt;L7p:OutputVariable stringValue="actionValue"/&gt;
-                        &lt;L7p:SplitPattern stringValue="action="/&gt;
-                    &lt;/L7p:Split&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="YWN0aW9uPSR7YWN0aW9uVmFsdWVbMV19"/&gt;
-                        &lt;L7p:VariableToSet stringValue="action"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                &lt;/wsp:All&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiQXV0aG9yaXphdGlvbiBEYWlsdXJlIiwNCiAgICJEZXNjcmlwdGlvbiI6IlJvdXRlIEZhaWx1cmUsIHBsZWFzZSBjaGVjayB3aXRoIGFkbWluIg0KICAgIlJlc3BvbnNlIjoiJHtyZXNwb25zZS5tYWlucGFydH0iDQp9"/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="AUTHORIZE"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Route to Authorize endpoint"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="P3VzZXJuYW1lPSR7dXNlcn0mcGFzc3dvcmQ9JHtwYXNzd29yZH0mYWN0aW9uPWxvZ2luJiR7YXV0aFJlc3BbMV19JiR7YXV0aFJlc3BbMl19"/&gt;
-                    &lt;L7p:VariableToSet stringValue="query"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}/auth/oauth/v2/authorize/login${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5tYWlucGFydH0="/&gt;
-                    &lt;L7p:ContentType stringValue="text/html; charset=utf-8"/&gt;
-                    &lt;L7p:DataType variableDataType="message"/&gt;
-                    &lt;L7p:VariableToSet stringValue="request"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;wsp:All wsp:Usage="Required"&gt;
-                    &lt;L7p:HttpRoutingAssertion&gt;
-                        &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                        &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}/login/html/parser"/&gt;
-                        &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                        &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                        &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="Cookie"/&gt;
-                                &lt;/L7p:item&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                                &lt;/L7p:item&gt;
-                            &lt;/L7p:Rules&gt;
-                        &lt;/L7p:RequestHeaderRules&gt;
-                        &lt;L7p:RequestMsgSrc stringValue="request"/&gt;
-                        &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                        &lt;/L7p:RequestParamRules&gt;
-                        &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                                &lt;/L7p:item&gt;
-                            &lt;/L7p:Rules&gt;
-                        &lt;/L7p:ResponseHeaderRules&gt;
-                        &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                    &lt;/L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5tYWlucGFydH0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="sessionInput"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="P2FjdGlvbj1jb25zZW50JiR7cmVzcG9uc2UubWFpbnBhcnR9"/&gt;
-                        &lt;L7p:VariableToSet stringValue="query"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue=""/&gt;
-                        &lt;L7p:ContentType stringValue="application/x-www-form-urlencoded; charset=utf-8"/&gt;
-                        &lt;L7p:DataType variableDataType="message"/&gt;
-                        &lt;L7p:VariableToSet stringValue="request"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                &lt;/wsp:All&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiTG9naW4gRGFpbHVyZSIsDQogICAiRGVzY3JpcHRpb24iOiJSb3V0ZSBGYWlsdXJlLCBwbGVhc2UgY2hlY2sgd2l0aCBhZG1pbiINCiAgICJSZXNwb25zZSI6IiR7cmVzcG9uc2UubWFpbnBhcnR9Ig0KfQ=="/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="LOGIN"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- user authentication "/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}/auth/oauth/v2/authorize/consent${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5tYWlucGFydH0="/&gt;
-                    &lt;L7p:ContentType stringValue="text/html; charset=utf-8"/&gt;
-                    &lt;L7p:DataType variableDataType="message"/&gt;
-                    &lt;L7p:VariableToSet stringValue="request"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;wsp:All wsp:Usage="Required"&gt;
-                    &lt;L7p:HttpRoutingAssertion&gt;
-                        &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                        &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}/consent/html/parser"/&gt;
-                        &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                        &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                        &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="Cookie"/&gt;
-                                &lt;/L7p:item&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                                &lt;/L7p:item&gt;
-                            &lt;/L7p:Rules&gt;
-                        &lt;/L7p:RequestHeaderRules&gt;
-                        &lt;L7p:RequestMsgSrc stringValue="request"/&gt;
-                        &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                        &lt;/L7p:RequestParamRules&gt;
-                        &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                            &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                            &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                                &lt;L7p:item httpPassthroughRule="included"&gt;
-                                    &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                                &lt;/L7p:item&gt;
-                            &lt;/L7p:Rules&gt;
-                        &lt;/L7p:ResponseHeaderRules&gt;
-                        &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                    &lt;/L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5tYWlucGFydH0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="query"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue=""/&gt;
-                        &lt;L7p:ContentType stringValue="application/x-www-form-urlencoded; charset=utf-8"/&gt;
-                        &lt;L7p:DataType variableDataType="message"/&gt;
-                        &lt;L7p:VariableToSet stringValue="request"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                &lt;/wsp:All&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiQ29uc2VudCBEYWlsdXJlIiwNCiAgICJEZXNjcmlwdGlvbiI6IlJvdXRlIEZhaWx1cmUsIHBsZWFzZSBjaGVjayB3aXRoIGFkbWluIg0KICAgIlJlc3BvbnNlIjoiJHtyZXNwb25zZS5tYWlucGFydH0iDQp9"/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="CONSENT REQUEST"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Consent Request"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:AddHeader&gt;
-                    &lt;L7p:EvaluateNameAsExpression booleanValue="true"/&gt;
-                    &lt;L7p:HeaderName stringValue="Location"/&gt;
-                    &lt;L7p:HeaderValue stringValue=""/&gt;
-                    &lt;L7p:Operation operation="REMOVE"/&gt;
-                    &lt;L7p:Target target="RESPONSE"/&gt;
-                &lt;/L7p:AddHeader&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:FailOnErrorStatus booleanValue="false"/&gt;
-                    &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="https://${gateway.cluster.hostname}/auth/oauth/v2/authorize/consent${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;wsp:All wsp:Usage="Required"&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHtyZXNwb25zZS5odHRwLmhlYWRlci5sb2NhdGlvbn0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="location"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:Split&gt;
-                        &lt;L7p:IgnoreEmptyValues booleanValue="true"/&gt;
-                        &lt;L7p:InputVariable stringValue="location"/&gt;
-                        &lt;L7p:OutputVariable stringValue="authResp"/&gt;
-                        &lt;L7p:SplitPattern stringValue="&amp;amp;"/&gt;
-                    &lt;/L7p:Split&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHthdXRoUmVzcFswXX0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="code"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:Split&gt;
-                        &lt;L7p:IgnoreEmptyValues booleanValue="true"/&gt;
-                        &lt;L7p:InputVariable stringValue="code"/&gt;
-                        &lt;L7p:OutputVariable stringValue="codeValue"/&gt;
-                        &lt;L7p:SplitPattern stringValue="code="/&gt;
-                    &lt;/L7p:Split&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="Y29kZT0ke2NvZGVWYWx1ZVsxXX0="/&gt;
-                        &lt;L7p:VariableToSet stringValue="code"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                    &lt;L7p:SetVariable&gt;
-                        &lt;L7p:Base64Expression stringValue="JHtjb2RlfQ=="/&gt;
-                        &lt;L7p:Enabled booleanValue="false"/&gt;
-                        &lt;L7p:VariableToSet stringValue="query"/&gt;
-                    &lt;/L7p:SetVariable&gt;
-                &lt;/wsp:All&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiQ29uc2VudCBEYWlsdXJlIiwNCiAgICJEZXNjcmlwdGlvbiI6IlJvdXRlIEZhaWx1cmUsIHBsZWFzZSBjaGVjayB3aXRoIGFkbWluIg0KICAgIlJlc3BvbnNlIjoiJHtyZXNwb25zZS5tYWlucGFydH0iDQp9"/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="CONSENT GRANT"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Consent Grant"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-        &lt;wsp:OneOrMore wsp:Usage="Required"&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="P2NsaWVudF9pZD0ke2NsaWVudElEfSZjbGllbnRfc2VjcmV0PSR7Y2xpZW50U2VjcmV0fSYke2NvZGV9JmdyYW50X3R5cGU9YXV0aG9yaXphdGlvbl9jb2RlJnJlZGlyZWN0X3VyaT0ke3JlZGlyZWN0VVJMfQ=="/&gt;
-                    &lt;L7p:VariableToSet stringValue="query"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:HttpRoutingAssertion&gt;
-                    &lt;L7p:FailOnErrorStatus booleanValue="false"/&gt;
-                    &lt;L7p:HttpMethod httpMethod="POST"/&gt;
-                    &lt;L7p:ProtectedServiceUrl stringValue="${tokenEP.results[0]}${query}"/&gt;
-                    &lt;L7p:ProxyPassword stringValueNull="null"/&gt;
-                    &lt;L7p:ProxyUsername stringValueNull="null"/&gt;
-                    &lt;L7p:RequestHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="SOAPAction"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:RequestHeaderRules&gt;
-                    &lt;L7p:RequestParamRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"/&gt;
-                    &lt;/L7p:RequestParamRules&gt;
-                    &lt;L7p:ResponseHeaderRules httpPassthroughRuleSet="included"&gt;
-                        &lt;L7p:ForwardAll booleanValue="true"/&gt;
-                        &lt;L7p:Rules httpPassthroughRules="included"&gt;
-                            &lt;L7p:item httpPassthroughRule="included"&gt;
-                                &lt;L7p:Name stringValue="Set-Cookie"/&gt;
-                            &lt;/L7p:item&gt;
-                        &lt;/L7p:Rules&gt;
-                    &lt;/L7p:ResponseHeaderRules&gt;
-                    &lt;L7p:SamlAssertionVersion intValue="2"/&gt;
-                &lt;/L7p:HttpRoutingAssertion&gt;
-                &lt;L7p:HardcodedResponse&gt;
-                    &lt;L7p:Base64ResponseBody stringValue="ewogICJDb2RlIjogIiR7Y29kZVZhbHVlWzFdfSIgLAogICJUb2tlbnMiOiAKICAgICAgICAgICAke3Jlc3BvbnNlLm1haW5wYXJ0fQp9"/&gt;
-                    &lt;L7p:ResponseContentType stringValue="application/json; charset=UTF-8"/&gt;
-                &lt;/L7p:HardcodedResponse&gt;
-            &lt;/wsp:All&gt;
-            &lt;wsp:All wsp:Usage="Required"&gt;
-                &lt;L7p:SetVariable&gt;
-                    &lt;L7p:Base64Expression stringValue="ew0KICAgIkVycm9yIjoiQ29uc2VudCBEYWlsdXJlIiwNCiAgICJEZXNjcmlwdGlvbiI6IlJvdXRlIEZhaWx1cmUsIHBsZWFzZSBjaGVjayB3aXRoIGFkbWluIg0KICAgIlJlc3BvbnNlIjoiJHtyZXNwb25zZS5tYWlucGFydH0iDQp9"/&gt;
-                    &lt;L7p:VariableToSet stringValue="error"/&gt;
-                &lt;/L7p:SetVariable&gt;
-                &lt;L7p:RaiseError/&gt;
-            &lt;/wsp:All&gt;
-            &lt;L7p:assertionComment&gt;
-                &lt;L7p:Properties mapValue="included"&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="TOKEN Request"/&gt;
-                    &lt;/L7p:entry&gt;
-                    &lt;L7p:entry&gt;
-                        &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
-                        &lt;L7p:value stringValue="-- Token Request"/&gt;
-                    &lt;/L7p:entry&gt;
-                &lt;/L7p:Properties&gt;
-            &lt;/L7p:assertionComment&gt;
-        &lt;/wsp:OneOrMore&gt;
-    &lt;/wsp:All&gt;
-&lt;/wsp:Policy&gt;
-</l7:Resource>
-                        </l7:ResourceSet>
-                    </l7:Resources>
-                </l7:Service>
-            </l7:Resource>
-        </l7:Item>
-        <l7:Item>
             <l7:Name>otk.access_token.enable_jwt</l7:Name>
             <l7:Id>ce71d24f2e5c1b26a2145df207944bc5</l7:Id>
             <l7:Type>CLUSTER_PROPERTY</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.510Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.532Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:ClusterProperty id="ce71d24f2e5c1b26a2145df207944bc5" version="3">
                     <l7:Name>otk.access_token.enable_jwt</l7:Name>
@@ -1076,7 +331,7 @@
             <l7:Name>#OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d2fa9e7e0db9f0c56c13fe57e46309e1</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.518Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.534Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="03d4ea7a-8557-4002-80b2-925e52eb4e26" id="d2fa9e7e0db9f0c56c13fe57e46309e1" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d16914781" guid="03d4ea7a-8557-4002-80b2-925e52eb4e26" id="d2fa9e7e0db9f0c56c13fe57e46309e1" version="0">
@@ -1273,7 +528,7 @@
             <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d003cc363d3af3fa8c1c0dfed091ccfe</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.522Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.537Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="ebc7bee2-0d5e-4348-89cf-c3a84ca693a6" id="d003cc363d3af3fa8c1c0dfed091ccfe" version="0">
                     <l7:PolicyDetail folderId="e001cfd0c1c1ffaa18e187b5e72fd08e" guid="ebc7bee2-0d5e-4348-89cf-c3a84ca693a6" id="d003cc363d3af3fa8c1c0dfed091ccfe" version="0">
@@ -1366,7 +621,7 @@
             <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d003cc363d3af3fa8c1c0dfed091cd38</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.526Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.537Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="d003cc363d3af3fa8c1c0dfed091cd38" version="0">
                     <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
@@ -1437,7 +692,7 @@
             <l7:Name>RevokeToken - Backend Resource</l7:Name>
             <l7:Id>7f4b4097fddf7f4d8ac42db3d9f4a0dc</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.535Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.546Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="7f4b4097fddf7f4d8ac42db3d9f4a0dc" version="3">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="7f4b4097fddf7f4d8ac42db3d9f4a0dc" version="3">
@@ -1459,7 +714,7 @@
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
                             <l7:Property key="policyRevision">
-                                <l7:LongValue>31</l7:LongValue>
+                                <l7:LongValue>32</l7:LongValue>
                             </l7:Property>
                             <l7:Property key="soap">
                                 <l7:BooleanValue>false</l7:BooleanValue>
@@ -1474,9 +729,27 @@
                     </l7:ServiceDetail>
                     <l7:Resources>
                         <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="30">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+                            <l7:Resource type="policy" version="31">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API :- &amp;lt;Enter the API Name&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API Group :- &amp;lt;Enter the API Group&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API TYPE :- &amp;lt;REST/SOAP/DATA&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="Author: Balaji Radhakrishnan"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
         &lt;wsp:All wsp:Usage="Required"&gt;
             &lt;L7p:SetVariable&gt;
                 &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lmh0dHAuaGVhZGVyLkF1dGhvcml6YXRpb259"/&gt;
@@ -1667,7 +940,7 @@
             <l7:Name>OBRevockeTokenQ</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4161</l7:Id>
             <l7:Type>JMS_ENDPOINT</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.555Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.559Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:JMSDestination id="b52c803a0665a111a71a2482857d4161" version="1">
                     <l7:JMSDestinationDetail id="b52c803a0665a111a71a2482857d4161" version="1">
@@ -1684,7 +957,7 @@
                                 <l7:StringValue>AUTOMATIC</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="password">
-                                <l7:StringValue bundleKey="$L7C2$1bead,n760uRg2JAD4IZRwkgu2yQ2+L99cY1bTaxq5rT7jWQQ=$PrgWHzVheb2RMZzwAZemnSsAZgLm6IlmR1Njvs2DdUAk/fBs1eQ7lbmzD8cfiWPNQ8sZ+v4iSPZz3toZ51O/6V/+7u3CfRM0HVHOdp7DbvzlqS3xbRfegVYBgdkCbLsV">$L7C2$1,sL+xnYLpAu3WWbEEP9NXCOi/hJHuZjCr9Pu6U44e0lI=$di2JDFSYIPr+kcXQaijikOZE8aMi+/hV+DOyI7KI49zZ3jtsnLXC00lqttZ2nX1LJ11OcH3GCxez32HT5frcmQ==</l7:StringValue>
+                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,qba4seRiTPsfj24y85eBj58dMjH+zvY90+esjX5KL70=$Ta17vQRuBHbLp7OT17cZWzWmD5BzB04GQ1nwl0bU+PGMuADWspoz2VPMgZPNQ0n/FbIMRRha3jKoLPEvLCLqJQ==</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="replyType">
                                 <l7:StringValue>AUTOMATIC</l7:StringValue>
@@ -1710,7 +983,7 @@
                                 <l7:StringValue>tcp://amq.security.broadcom.com:61616</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="password">
-                                <l7:StringValue bundleKey="$L7C2$1bead,n760uRg2JAD4IZRwkgu2yQ2+L99cY1bTaxq5rT7jWQQ=$PrgWHzVheb2RMZzwAZemnSsAZgLm6IlmR1Njvs2DdUAk/fBs1eQ7lbmzD8cfiWPNQ8sZ+v4iSPZz3toZ51O/6V/+7u3CfRM0HVHOdp7DbvzlqS3xbRfegVYBgdkCbLsV">$L7C2$1,z9CS3jqNsNps+9spAErFj5OJGZ21lfeC6cwwzar9fyw=$VjLU4srJswXazFLzTfqTFWmqO1LeHTU60DJmm31Qal5eqZWB5I45EoUeOxlGO7IoooO559lDoUuzkyd1LBXweg==</l7:StringValue>
+                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,4zOClptg8CEnyOozDAZq+abE4rr0naZPgz441SHUaAw=$4JOSKDP+Boz5cikrN6XfVeAFYIQQV8rG7tqnewDLLuxJ6Vphpsn+tKsBJQbe9qNh2EX0gIxBamBl5fJug1DYXQ==</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="queue.connectionFactoryName">
                                 <l7:StringValue>ConnectionFactory</l7:StringValue>
@@ -1733,7 +1006,7 @@
                                 <l7:StringValue>false</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="java.naming.security.credentials">
-                                <l7:StringValue bundleKey="$L7C2$1bead,n760uRg2JAD4IZRwkgu2yQ2+L99cY1bTaxq5rT7jWQQ=$PrgWHzVheb2RMZzwAZemnSsAZgLm6IlmR1Njvs2DdUAk/fBs1eQ7lbmzD8cfiWPNQ8sZ+v4iSPZz3toZ51O/6V/+7u3CfRM0HVHOdp7DbvzlqS3xbRfegVYBgdkCbLsV">$L7C2$1,g+TlKsSTo21oRroJWewQWYwcxsiwHZKJMFNsR8iMrDc=$1TMrgaseXm3L8VPIeDBmFqVeFdK2fA9u99NZ3+pOfen0I66oV1nmRAem9u/1tYdnHHFvJoYzPBJuH8TTbTbITw==</l7:StringValue>
+                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,iaXP9a1ijiL236pF8yHA9ug14TzyzRt7XGumBiUG970=$099uJqaFBpHfpXclUcL8m916hzw6ngdzKgUiNvvjvZJ50IzpYd2ow4c8a7lOExa8HAgeLBVtFYJSmpx+Io52wQ==</l7:StringValue>
                             </l7:Property>
                             <l7:Property key="java.naming.security.principal">
                                 <l7:StringValue>admin</l7:StringValue>
@@ -1747,7 +1020,7 @@
             <l7:Name>JMS - OutBound RevokeToken Queue</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4170</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.557Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-05T20:59:47.563Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="b52c803a0665a111a71a2482857d4170" version="2">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="b52c803a0665a111a71a2482857d4170" version="2">
@@ -1756,6 +1029,101 @@
                         <l7:ServiceMappings>
                             <l7:HttpMapping>
                                 <l7:UrlPattern>/jms/ob/revokeToken</l7:UrlPattern>
+                                <l7:Verbs>
+                                    <l7:Verb>GET</l7:Verb>
+                                    <l7:Verb>POST</l7:Verb>
+                                    <l7:Verb>PUT</l7:Verb>
+                                    <l7:Verb>DELETE</l7:Verb>
+                                </l7:Verbs>
+                            </l7:HttpMapping>
+                        </l7:ServiceMappings>
+                        <l7:Properties>
+                            <l7:Property key="hasRouting">
+                                <l7:BooleanValue>true</l7:BooleanValue>
+                            </l7:Property>
+                            <l7:Property key="internal">
+                                <l7:BooleanValue>false</l7:BooleanValue>
+                            </l7:Property>
+                            <l7:Property key="policyRevision">
+                                <l7:LongValue>11</l7:LongValue>
+                            </l7:Property>
+                            <l7:Property key="soap">
+                                <l7:BooleanValue>false</l7:BooleanValue>
+                            </l7:Property>
+                            <l7:Property key="tracingEnabled">
+                                <l7:BooleanValue>false</l7:BooleanValue>
+                            </l7:Property>
+                            <l7:Property key="wssProcessingEnabled">
+                                <l7:BooleanValue>false</l7:BooleanValue>
+                            </l7:Property>
+                        </l7:Properties>
+                    </l7:ServiceDetail>
+                    <l7:Resources>
+                        <l7:ResourceSet tag="policy">
+                            <l7:Resource type="policy" version="10">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
+    &lt;wsp:All wsp:Usage="Required"&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API :- &amp;lt;Enter the API Name&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API Group :- &amp;lt;Enter the API Group&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API TYPE :- &amp;lt;REST/SOAP/DATA&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="Author: Balaji Radhakrishnan"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="This policy is to validate the OB configuration, not being used in the demo."/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:EvaluateJsonPathExpressionV2&gt;
+            &lt;L7p:Expression stringValue="access_token"/&gt;
+        &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
+        &lt;L7p:JmsRoutingAssertion&gt;
+            &lt;L7p:EndpointName stringValue="OBRevockeTokenQ"/&gt;
+            &lt;L7p:EndpointOid goidValue="b52c803a0665a111a71a2482857d4161"/&gt;
+            &lt;L7p:RequestJmsMessagePropertyRuleSet jmsMessagePropertyRuleSet="included"&gt;
+                &lt;L7p:Rules jmsMessagePropertyRuleArray="included"/&gt;
+            &lt;/L7p:RequestJmsMessagePropertyRuleSet&gt;
+            &lt;L7p:ResponseJmsMessagePropertyRuleSet jmsMessagePropertyRuleSet="included"&gt;
+                &lt;L7p:Rules jmsMessagePropertyRuleArray="included"/&gt;
+            &lt;/L7p:ResponseJmsMessagePropertyRuleSet&gt;
+            &lt;L7p:ResponseTarget MessageTarget="included"&gt;
+                &lt;L7p:OtherTargetMessageVariable stringValue="jmsResp"/&gt;
+                &lt;L7p:Target target="OTHER"/&gt;
+                &lt;L7p:TargetModifiedByGateway booleanValue="true"/&gt;
+            &lt;/L7p:ResponseTarget&gt;
+            &lt;L7p:ResponseTimeout stringValue="300"/&gt;
+        &lt;/L7p:JmsRoutingAssertion&gt;
+    &lt;/wsp:All&gt;
+&lt;/wsp:Policy&gt;
+</l7:Resource>
+                        </l7:ResourceSet>
+                    </l7:Resources>
+                </l7:Service>
+            </l7:Resource>
+        </l7:Item>
+        <l7:Item>
+            <l7:Name>JMS - InBound RevokeToke Queue</l7:Name>
+            <l7:Id>b52c803a0665a111a71a2482857d41dd</l7:Id>
+            <l7:Type>SERVICE</l7:Type>
+            <l7:TimeStamp>2022-05-05T20:59:47.567Z</l7:TimeStamp>
+            <l7:Resource>
+                <l7:Service id="b52c803a0665a111a71a2482857d41dd" version="2">
+                    <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="b52c803a0665a111a71a2482857d41dd" version="2">
+                        <l7:Name>JMS - InBound RevokeToke Queue</l7:Name>
+                        <l7:Enabled>true</l7:Enabled>
+                        <l7:ServiceMappings>
+                            <l7:HttpMapping>
+                                <l7:UrlPattern>/jms/ib/revokeToken</l7:UrlPattern>
                                 <l7:Verbs>
                                     <l7:Verb>GET</l7:Verb>
                                     <l7:Verb>POST</l7:Verb>
@@ -1790,80 +1158,24 @@
                             <l7:Resource type="policy" version="8">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
-        &lt;L7p:EvaluateJsonPathExpressionV2&gt;
-            &lt;L7p:Expression stringValue="access_token"/&gt;
-        &lt;/L7p:EvaluateJsonPathExpressionV2&gt;
-        &lt;L7p:JmsRoutingAssertion&gt;
-            &lt;L7p:EndpointName stringValue="OBRevockeTokenQ"/&gt;
-            &lt;L7p:EndpointOid goidValue="b52c803a0665a111a71a2482857d4161"/&gt;
-            &lt;L7p:RequestJmsMessagePropertyRuleSet jmsMessagePropertyRuleSet="included"&gt;
-                &lt;L7p:Rules jmsMessagePropertyRuleArray="included"/&gt;
-            &lt;/L7p:RequestJmsMessagePropertyRuleSet&gt;
-            &lt;L7p:ResponseJmsMessagePropertyRuleSet jmsMessagePropertyRuleSet="included"&gt;
-                &lt;L7p:Rules jmsMessagePropertyRuleArray="included"/&gt;
-            &lt;/L7p:ResponseJmsMessagePropertyRuleSet&gt;
-            &lt;L7p:ResponseTarget MessageTarget="included"&gt;
-                &lt;L7p:OtherTargetMessageVariable stringValue="jmsResp"/&gt;
-                &lt;L7p:Target target="OTHER"/&gt;
-                &lt;L7p:TargetModifiedByGateway booleanValue="true"/&gt;
-            &lt;/L7p:ResponseTarget&gt;
-            &lt;L7p:ResponseTimeout stringValue="300"/&gt;
-        &lt;/L7p:JmsRoutingAssertion&gt;
-    &lt;/wsp:All&gt;
-&lt;/wsp:Policy&gt;
-</l7:Resource>
-                        </l7:ResourceSet>
-                    </l7:Resources>
-                </l7:Service>
-            </l7:Resource>
-        </l7:Item>
-        <l7:Item>
-            <l7:Name>JMS - InBound RevokeToke Queue</l7:Name>
-            <l7:Id>b52c803a0665a111a71a2482857d41dd</l7:Id>
-            <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T17:09:47.560Z</l7:TimeStamp>
-            <l7:Resource>
-                <l7:Service id="b52c803a0665a111a71a2482857d41dd" version="2">
-                    <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="b52c803a0665a111a71a2482857d41dd" version="2">
-                        <l7:Name>JMS - InBound RevokeToke Queue</l7:Name>
-                        <l7:Enabled>true</l7:Enabled>
-                        <l7:ServiceMappings>
-                            <l7:HttpMapping>
-                                <l7:UrlPattern>/jms/ib/revokeToken</l7:UrlPattern>
-                                <l7:Verbs>
-                                    <l7:Verb>GET</l7:Verb>
-                                    <l7:Verb>POST</l7:Verb>
-                                    <l7:Verb>PUT</l7:Verb>
-                                    <l7:Verb>DELETE</l7:Verb>
-                                </l7:Verbs>
-                            </l7:HttpMapping>
-                        </l7:ServiceMappings>
-                        <l7:Properties>
-                            <l7:Property key="hasRouting">
-                                <l7:BooleanValue>true</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="internal">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="policyRevision">
-                                <l7:LongValue>8</l7:LongValue>
-                            </l7:Property>
-                            <l7:Property key="soap">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="tracingEnabled">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                            <l7:Property key="wssProcessingEnabled">
-                                <l7:BooleanValue>false</l7:BooleanValue>
-                            </l7:Property>
-                        </l7:Properties>
-                    </l7:ServiceDetail>
-                    <l7:Resources>
-                        <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="7">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
-    &lt;wsp:All wsp:Usage="Required"&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API :- &amp;lt;Enter the API Name&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API Group :- &amp;lt;Enter the API Group&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="API TYPE :- &amp;lt;REST/SOAP/DATA&gt;"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="Author: Balaji Radhakrishnan"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
+        &lt;L7p:CommentAssertion&gt;
+            &lt;L7p:Comment stringValue="************************************************************"/&gt;
+        &lt;/L7p:CommentAssertion&gt;
         &lt;L7p:SetVariable&gt;
             &lt;L7p:Base64Expression stringValue="JHtyZXF1ZXN0Lm1haW5wYXJ0fQ=="/&gt;
             &lt;L7p:ContentType stringValue="application/json; charset=utf-8"/&gt;
@@ -1931,7 +1243,6 @@
         </l7:Mapping>
         <l7:Mapping action="NewOrExisting" srcId="00000000000000000000000000000002:ssl" srcUri="https://ssg-gateway-bdbc894b5-97q2b:8443/restman/1.0/privateKeys/00000000000000000000000000000002:ssl" type="SSG_KEY_ENTRY"/>
         <l7:Mapping action="NewOrExisting" srcId="4c44523e799f8f88a0affbb87e6b2a63" srcUri="https://ssg-gateway-bdbc894b5-97q2b:8443/restman/1.0/services/4c44523e799f8f88a0affbb87e6b2a63" type="SERVICE"/>
-        <l7:Mapping action="NewOrExisting" srcId="4c44523e799f8f88a0affbb87e6b6077" srcUri="https://ssg-gateway-bdbc894b5-97q2b:8443/restman/1.0/services/4c44523e799f8f88a0affbb87e6b6077" type="SERVICE"/>
         <l7:Mapping action="NewOrExisting" srcId="ce71d24f2e5c1b26a2145df207944bc5" srcUri="https://ssg-gateway-bdbc894b5-97q2b:8443/restman/1.0/clusterProperties/ce71d24f2e5c1b26a2145df207944bc5" type="CLUSTER_PROPERTY">
             <l7:Properties>
                 <l7:Property key="MapBy">
