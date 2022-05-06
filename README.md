@@ -30,3 +30,5 @@ Please refer to the Blog for more details on architecture and context for this C
  
  ## Step 4: Verify and Validate the configuration
   > Make sure the policies are validated with relevant configuration and amend changes to the JNDI configuration, transport ports as needed. 
+
+### Note This repo post, demo policies and Blog only coveres the Subscriber PoV in handling the Shared Signal Event of CAE. 
