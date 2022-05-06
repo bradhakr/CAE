@@ -27,5 +27,5 @@ Please refer to the Blog for more details on architecture and context for this C
  ### 1. Revoke Token Bundle:
         - https://github.com/bradhakr/CAE.git
  
- ## Step 4: Varify and Validate the configuration
+ ## Step 4: Verify and Validate the configuration
   > Make sure the policies are validated with relevant configuration and amend changes to the JNDI configuration, transport ports as needed. 
