@@ -3,6 +3,7 @@
 > Demo Content for Continuous Access Evaluation (CAE) and Signal Sharing Event (SSE) framework to enable relying parties to support token revocation without the need to constantly contact token issuers at runtime.
 
 Please refer to the Blog for more details on architecture and context for this CAE demo. 
+> "Blog Post on CAE" https://imsacademy.broadcom.com/catalog/courses/2730922
 
 ## Step 1: Install a message Broker and setup queue "revokedTokenQ".
 
