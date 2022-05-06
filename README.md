@@ -15,20 +15,23 @@ Please refer to the Blog for more details on architecture and context for this C
   > Please refer to the following links for more details on deployment and also JMS configuration:
 
 ### 1. Layer7 APIM Deployment in GCP using Helm Charts: 
-        -  https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/install-configure-upgrade.html
-        -  https://github.com/CAAPIM/apim-charts
+-  https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/install-configure-upgrade.html
+-  https://github.com/CAAPIM/apim-charts
 ### 2. OAuth Tool Kit Configuration
-        - https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-management-oauth-toolkit/4-5/installation-workflow.html
+- https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-management-oauth-toolkit/4-5/installation-workflow.html
 ### 4. Installing and configuring JMS interface with Gateway:
-        - https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/security-configuration-in-policy-manager/tasks-menu-security-options/manage-jms-destinations/install-the-jms-interface.html
+- https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/congw-10-1/security-configuration-in-policy-manager/tasks-menu-security-options/manage-jms-destinations/install-the-jms-interface.html
 
 ## Step 3: Using Gateway Migration Utility load the CAE Policy bundle into the gateway: 
   > Enclosed in this repository.
  
  ### 1. Revoke Token Bundle:
-        - https://github.com/bradhakr/CAE.git
+- https://github.com/bradhakr/CAE.git
  
  ## Step 4: Verify and Validate the configuration
   > Make sure the policies are validated with relevant configuration and amend changes to the JNDI configuration, transport ports as needed. 
 
-### Note This repo post, demo policies and Blog only coveres the Subscriber PoV in handling the Shared Signal Event of CAE. 
+
+
+### Note: 
+> This repo post, demo policies and Blog only coveres the Subscriber PoV in handling the Shared Signal Event of CAE. 
