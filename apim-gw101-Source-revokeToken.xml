@@ -5,7 +5,7 @@
             <l7:Name>RevokeToken</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4106</l7:Id>
             <l7:Type>FOLDER</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.158Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.527Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Folder folderId="0000000000000000ffffffffffffec76" id="b52c803a0665a111a71a2482857d4106" version="1">
                     <l7:Name>RevokeToken</l7:Name>
@@ -16,7 +16,7 @@
             <l7:Name>cluster.hostname</l7:Name>
             <l7:Id>0000000000000000fffffffffff5519f</l7:Id>
             <l7:Type>CLUSTER_PROPERTY</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.158Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.527Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:ClusterProperty id="0000000000000000fffffffffff5519f" version="1">
                     <l7:Name>cluster.hostname</l7:Name>
@@ -28,7 +28,7 @@
             <l7:Name>ssl</l7:Name>
             <l7:Id>00000000000000000000000000000002:ssl</l7:Id>
             <l7:Type>SSG_KEY_ENTRY</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.497Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.852Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:PrivateKey alias="ssl" id="00000000000000000000000000000002:ssl" keystoreId="00000000000000000000000000000002">
                     <l7:CertificateChain>
@@ -56,7 +56,7 @@
                             <l7:StringValue>RSA</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="keyData">
-                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,HsOKU7XqIBI8theTiljbQPzgYQfBmI2o60CEKypXTSY=$omsZH+z9I1AZbVvNuYHZ3wo3tquF3/YilbuFDL9poEszQK3iwf2TPbeib4UFLaou0ivDIW9sjZsfnyuNv0o04PR1zrGtIZayiF+LjRtAyydbUgwfQdRPHIXwwqYbCARBdMsTRw/lMLnF7pjZ7UdVWqPm/B0DFfgct41MWmHOYH92fGd74nsdFVlfZUjLAAyFKViWb5EkgINTZPM70wf4q5WsLSa3eDpsNT1hz8IkU3gX49B5p9rSsxAaA01Asb/+VLghSCt90uvCi9kF+li8lr+qj9XT2nIX7s3IooR5GNKWYr6rLpOm0EdM9Jy54vUvAs5TPU+NIQlW4C8dzZ/iWcFapeElp3E/i+rShmotyNQ07qp5dZ4VFoBjxuUvThYJ4fwa7rVfh05YwqH0QkxszYzOK17VZcZN1Rr4hpPZNUl2KSyD3SJDU6f7mlFZ5LZLOI6d++cj/JsQmZOIbdcfTWbYwylWQtEHTyIXc2y5+SQscLyYZhYHJmY/8f/6/JnwP/AmiHM4YCxqwaJyn6r7MiHz9uxzAgkurwMDHteB5YIw25z/n/1sTzvFDrIwAZGt2p8WwJFX75IhAsTiiRkTCWo8kJYoOUWdUUBR/dU0WsfFsHQS5z0tRtzZhqd+wPEyIquKj6lipW/dJsjEEmkqxHnMO35eUD9jce5nXB0ilZWjYzJTFe6DjMlnTnnLBUbWlrDBjUe/EFDEkE1+eH2hJjmzk4+Y4bSYg82AeLJ0RIoCXp+gyuwksgPpopEg3rzsz6ec1eEGQRfgG3ESeQFHp2/EZ+GvAhzsCAyeAEQ2uV1aAdVrbGZRc86bmpC4c90n9H5sQHMJ9xEG/WOsquWzlKO9xBL+KSX6dl1zjecLrs9HaS9ikB7DCSk8EUcRVmwdxJCa79ph+PNZGPqHtsKnbLVWkcgJ+uK8SDs3APwN05KW+U6t7K4s8KtEIWWuap4i/rk6cEi8GrMidWCuBSYBydtWEz8IR9z3uil5dV7Vrz4FOayq6HMMRC6vT69WtLsI4YUheBUTVemVCI0BYQXOQV6A/ya6WGeYtk1tig0S9lMFLGbh3Odju1Sxq3nI+fg26NZBeHNoLKz23uC78COfGG4gPvI4ek4oCBu0qxmiVoT2ZZOIPunp9lUKixPqfCoxufjWDFfOx+o4IpGq8l2wT84xYpSFLcS2zOPC2/wxfImAOJWuEpE/AabhKZu3qRfMMRtXv8KbvM8/gxziuKg9HtjwiHHY7IHBBCPThB5C1XqAkYwbuk6D1LcKanjgWc7oOA/OBh1wYqRA2naMTKgOMXjbtKHMXUH9NkicT4cmcZyEtEpVGBDk68Xcifk3y/HlI70ZbBtieUgBW2nQQr3lLgaoER+6yWkCn519Cn+U1udT5lWjBrrPtNx+P6aM/RpddxuwxOBUx+/WGfHu+/Op2nOgxyGiuNmh3Kv+aFbi5fJIjjwincfg8yrcbGDhQ1ATDHHaUdZPZeX7oyiXS+B/wqPbfCWthMpatuHpN8LPvghyOs8Xi1VsBuYEt3lVnpeDNBgg8jM3rPXS81DngxGmVoIsaOhOQy3USVSdT3s9hPcHKyfN3RGr36UgHlU8gwOpqf6QcRQCdilwUDMiJM55VQ+eq7VR3T47cNhkgqtj35El1GhawS23cS2L9AmN/oB3nKTe346Auy05RcrhyJbnqHvnEBl2tb/nbAJ4wvDr64o=</l7:StringValue>
+                            <l7:StringValue algorithm="RSA" bundleKey="$L7C2$1bead,eXhMumzQWfuDePkDsZehMh93wm4eiBe3nzx8JeL1dU4=$MljqfQZ8DgpzMc3xhMtObKoS7wGM+G/HWE1onwwStocg39RAEDEcrnqocPz8/+GU6uAuTJUObBkQIoBCYbTXGoEV5x+CZU66XB2PZ3G3+pdPA2JuQasN7f1qdVfYu4LL">$L7C2$1,Hz4vK0ehDXdyO9ApF4GKQRCSgOEt9o0z2FxHZeflMyM=$yIZc+LCS2PzFvsSzoUr4lrgOlAt0WnSb2pXfSbfCPdhGR1WwgnbxNqx9Ss0o8GuTCDWCWsDVOlyUthRZjyUpy9H/O4g6/CS32Sj5mSQPlYZCoLxMP8rXjrNnJeu90bO4nVIymppj3HyGkIe3YSimvC1X1zcAnZTtB0zjUGJnuHAQTq/cZ8/WUVYl09YhlDv5gMcr2Lfdog8wxCd/RaXmqeIturP8TZoHApXXXw+vqjk7H51fezFmD4mTSm6DStEIKtymf5NRz2LVKG7Y7U1zdT+6jwDxeGoHJVb0gyAuQUU4l+2fJh0txKpaZVARh86LodFlwqjGNb1rYKU9wRDyHun/vE7m6Tt1zp0zJZXexhLpRlURXbijj7XFg/r0Z6MAuD+cwuST1AB0VuRzyO86zCWw4pDlebHRd7P0fkk0P3S32pxowfC3ijct9wH3aZhIitiE865SRx+uN/88hn2TcaY1CNv/90XjOpxL0cB3oXMnAngjgZuP6tnmUnqZ2/DEpCzVLNSkqTWtrDJwaMBYz+qVTkzWwKvuiehoS0FBR3fiVmfVvFq6OY+WBeVJ7n9RjivF8JzsUSjeI6apmnEXTZDrh1KA/foGMimVCd7Vn4ZmYW5/IJRO6frre/r/LlzCbjm+G205qo+AJal+0o5XlRZexRNkmncgnNwj7f3pWdNjuvf95+GXXbuntEmjec92HwUwTRCEe11PLBbeQ2nBJr8NJlPOCg1k+WtQupewKDgmTUzZfFC8yKMP3yrtmgxSvwMB5qrm3v9Rpcy2/mr3OieffQjgxDcIyEnmnfkXsFRciyD+XiUnUhPXkwcKfeQv7Xr9oPuxLu1nKmL/2UEzA0tDkIZ6gIx8xNAcPeUSfYPmyF2gWiDGDSbjOSTMxTas+jISiCrbmnPb87DrUXcMMJf/7XSAR1OlIS1XIqFk8f7jios/etByBRY5K4j7JWBZL7TO+iiOTkzL2nPHsm4lT/YBAs78kt4JJ92HonlIvIZLiu9vToxwFQQHVfr3RV3ZZQGQugtGU+BpBYN60kPktyaQzzmaHQ8P3Qo4SWd2tGrHDzujKXcVay/u3jXu2uBOFTN5RqKe7G3QwiBPJyU2EQOdAhvHyDgOFTso5Un+hf9SBvRrb7cuoSEOkX+gd/RRSZ1DkIZuERJiHPkrWRIWV33p7oKrzFZGHkGC9QIp4qNvup/Sjz0ufxSphvNfmqvh4soPwq8L+briCZI30tsP/zbj9zXj2iqDCbAzkMQzBRiqmoGRdHGm2zEfBztvRzpUc2lSgZeRmkZcowcV6eeJzyJdEHiCfS/UuoZoiWr3YluZ/VBUyp94gr25gDOzOlO6WAA/CeNS811kpLRw97V+hmwWQrKa02vZ+rskGdxic4joZrb5/7nrxqXyFheZTOdYcP/dfSae2QfhjEwTZXkE+tSGdV+AykUUGSjYuaRK1/PLG4pMEo/M0LFGGC1c+6lUYAniPUA9Nqbdru9JuQhgG3tiWk/zeUFN3Y2KJOQ5IcwFv3CqWv/pcZK8tbZg1EDqukwtGorcVM8GkSQhhCXlKBMOxQNxfh1IHIYGSMxtUMlbJqluShbMo5/jkwMCYSnSMGHWNQMhk+Gqy18tM6ZPti2DGklbfZw/JTnVYXvasUP44vi22esL8WDKf3GUTt25MtNboXntx0NF2FHt82AxYDTrJsTne/u9NpoNcPLBx7M=</l7:StringValue>
                         </l7:Property>
                         <l7:Property key="specialPurposes">
                             <l7:StringValue>Default SSL Key</l7:StringValue>
@@ -69,7 +69,7 @@
             <l7:Name>3rd Party OIDC Provider - SSP</l7:Name>
             <l7:Id>4c44523e799f8f88a0affbb87e6b2a63</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.531Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.879Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="4c44523e799f8f88a0affbb87e6b2a63" version="3">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="4c44523e799f8f88a0affbb87e6b2a63" version="3">
@@ -94,7 +94,7 @@
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
                             <l7:Property key="policyRevision">
-                                <l7:LongValue>29</l7:LongValue>
+                                <l7:LongValue>31</l7:LongValue>
                             </l7:Property>
                             <l7:Property key="soap">
                                 <l7:BooleanValue>false</l7:BooleanValue>
@@ -109,7 +109,7 @@
                     </l7:ServiceDetail>
                     <l7:Resources>
                         <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="28">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+                            <l7:Resource type="policy" version="30">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
         &lt;L7p:CommentAssertion&gt;
@@ -132,11 +132,7 @@
         &lt;/L7p:CommentAssertion&gt;
         &lt;wsp:All wsp:Usage="Required"&gt;
             &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="MTM2OTk2MGItMTM3YS00NzA4LWJjNDgtNGUzN2EyZjJjMGZhOmRmNTgzNjI4LTEzZmMtNDdhNy1hYWJmLWQ3OTQ5ZjQ0NWFiNw=="/&gt;
-                &lt;L7p:VariableToSet stringValue="authorization"/&gt;
-            &lt;/L7p:SetVariable&gt;
-            &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="MTM2OTk2MGItMTM3YS00NzA4LWJjNDgtNGUzN2EyZjJjMGZh"/&gt;
+                &lt;L7p:Base64Expression stringValue="PDxZb3VyIENsaWVudCBJRD4+"/&gt;
                 &lt;L7p:VariableToSet stringValue="clientID"/&gt;
             &lt;/L7p:SetVariable&gt;
             &lt;L7p:EncodeDecode&gt;
@@ -146,7 +142,7 @@
                 &lt;L7p:TransformType transformType="URL_ENCODE"/&gt;
             &lt;/L7p:EncodeDecode&gt;
             &lt;L7p:SetVariable&gt;
-                &lt;L7p:Base64Expression stringValue="ZGY1ODM2MjgtMTNmYy00N2E3LWFhYmYtZDc5NDlmNDQ1YWI3"/&gt;
+                &lt;L7p:Base64Expression stringValue="PDxZb3VyIENsaWVudCBTZWNyZXQ+Pg=="/&gt;
                 &lt;L7p:VariableToSet stringValue="clientSecret"/&gt;
             &lt;/L7p:SetVariable&gt;
             &lt;L7p:EncodeDecode&gt;
@@ -227,7 +223,7 @@
                     &lt;/L7p:SetVariable&gt;
                     &lt;L7p:AddHeader&gt;
                         &lt;L7p:HeaderName stringValue="authorization"/&gt;
-                        &lt;L7p:HeaderValue stringValue="Basic MTM2OTk2MGItMTM3YS00NzA4LWJjNDgtNGUzN2EyZjJjMGZhOmRmNTgzNjI4LTEzZmMtNDdhNy1hYWJmLWQ3OTQ5ZjQ0NWFiNw=="/&gt;
+                        &lt;L7p:HeaderValue stringValue="&amp;lt;&amp;lt;your Base64 client Cred&gt;&gt;"/&gt;
                         &lt;L7p:RemoveExisting booleanValue="true"/&gt;
                     &lt;/L7p:AddHeader&gt;
                     &lt;L7p:AddHeader&gt;
@@ -319,7 +315,7 @@
             <l7:Name>otk.access_token.enable_jwt</l7:Name>
             <l7:Id>ce71d24f2e5c1b26a2145df207944bc5</l7:Id>
             <l7:Type>CLUSTER_PROPERTY</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.532Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.879Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:ClusterProperty id="ce71d24f2e5c1b26a2145df207944bc5" version="3">
                     <l7:Name>otk.access_token.enable_jwt</l7:Name>
@@ -331,7 +327,7 @@
             <l7:Name>#OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d2fa9e7e0db9f0c56c13fe57e46309e1</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.534Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.896Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="03d4ea7a-8557-4002-80b2-925e52eb4e26" id="d2fa9e7e0db9f0c56c13fe57e46309e1" version="0">
                     <l7:PolicyDetail folderId="161861da3a78c5dcdc62696d16914781" guid="03d4ea7a-8557-4002-80b2-925e52eb4e26" id="d2fa9e7e0db9f0c56c13fe57e46309e1" version="0">
@@ -528,7 +524,7 @@
             <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d003cc363d3af3fa8c1c0dfed091ccfe</l7:Id>
             <l7:Type>POLICY</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.537Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.900Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Policy guid="ebc7bee2-0d5e-4348-89cf-c3a84ca693a6" id="d003cc363d3af3fa8c1c0dfed091ccfe" version="0">
                     <l7:PolicyDetail folderId="e001cfd0c1c1ffaa18e187b5e72fd08e" guid="ebc7bee2-0d5e-4348-89cf-c3a84ca693a6" id="d003cc363d3af3fa8c1c0dfed091ccfe" version="0">
@@ -621,7 +617,7 @@
             <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
             <l7:Id>d003cc363d3af3fa8c1c0dfed091cd38</l7:Id>
             <l7:Type>ENCAPSULATED_ASSERTION</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.537Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.901Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:EncapsulatedAssertion id="d003cc363d3af3fa8c1c0dfed091cd38" version="0">
                     <l7:Name>OTK Validate JWT OAuth Token</l7:Name>
@@ -692,7 +688,7 @@
             <l7:Name>RevokeToken - Backend Resource</l7:Name>
             <l7:Id>7f4b4097fddf7f4d8ac42db3d9f4a0dc</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.546Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.910Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="7f4b4097fddf7f4d8ac42db3d9f4a0dc" version="3">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="7f4b4097fddf7f4d8ac42db3d9f4a0dc" version="3">
@@ -714,7 +710,7 @@
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
                             <l7:Property key="policyRevision">
-                                <l7:LongValue>32</l7:LongValue>
+                                <l7:LongValue>33</l7:LongValue>
                             </l7:Property>
                             <l7:Property key="soap">
                                 <l7:BooleanValue>false</l7:BooleanValue>
@@ -729,7 +725,7 @@
                     </l7:ServiceDetail>
                     <l7:Resources>
                         <l7:ResourceSet tag="policy">
-                            <l7:Resource type="policy" version="31">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+                            <l7:Resource type="policy" version="32">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy"&gt;
     &lt;wsp:All wsp:Usage="Required"&gt;
         &lt;L7p:CommentAssertion&gt;
@@ -852,6 +848,18 @@
                     &lt;L7p:DataType variableDataType="message"/&gt;
                     &lt;L7p:VariableToSet stringValue="resp"/&gt;
                 &lt;/L7p:SetVariable&gt;
+                &lt;L7p:assertionComment&gt;
+                    &lt;L7p:Properties mapValue="included"&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="CACHE Look UP"/&gt;
+                        &lt;/L7p:entry&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="// Cache Look up of the token"/&gt;
+                        &lt;/L7p:entry&gt;
+                    &lt;/L7p:Properties&gt;
+                &lt;/L7p:assertionComment&gt;
             &lt;/wsp:All&gt;
             &lt;wsp:All wsp:Usage="Required"&gt;
                 &lt;L7p:Encapsulated&gt;
@@ -914,6 +922,18 @@
                     &lt;L7p:DataType variableDataType="message"/&gt;
                     &lt;L7p:VariableToSet stringValue="resp"/&gt;
                 &lt;/L7p:SetVariable&gt;
+                &lt;L7p:assertionComment&gt;
+                    &lt;L7p:Properties mapValue="included"&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="VALID Token"/&gt;
+                        &lt;/L7p:entry&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="//Regual Token Validation"/&gt;
+                        &lt;/L7p:entry&gt;
+                    &lt;/L7p:Properties&gt;
+                &lt;/L7p:assertionComment&gt;
             &lt;/wsp:All&gt;
             &lt;wsp:All wsp:Usage="Required"&gt;
                 &lt;L7p:SetVariable&gt;
@@ -922,6 +942,18 @@
                     &lt;L7p:DataType variableDataType="message"/&gt;
                     &lt;L7p:VariableToSet stringValue="resp"/&gt;
                 &lt;/L7p:SetVariable&gt;
+                &lt;L7p:assertionComment&gt;
+                    &lt;L7p:Properties mapValue="included"&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="LEFT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="INVALID"/&gt;
+                        &lt;/L7p:entry&gt;
+                        &lt;L7p:entry&gt;
+                            &lt;L7p:key stringValue="RIGHT.COMMENT"/&gt;
+                            &lt;L7p:value stringValue="//Invalid token Validation"/&gt;
+                        &lt;/L7p:entry&gt;
+                    &lt;/L7p:Properties&gt;
+                &lt;/L7p:assertionComment&gt;
             &lt;/wsp:All&gt;
         &lt;/wsp:OneOrMore&gt;
         &lt;L7p:HardcodedResponse&gt;
@@ -940,10 +972,10 @@
             <l7:Name>OBRevockeTokenQ</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4161</l7:Id>
             <l7:Type>JMS_ENDPOINT</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.559Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.922Z</l7:TimeStamp>
             <l7:Resource>
-                <l7:JMSDestination id="b52c803a0665a111a71a2482857d4161" version="1">
-                    <l7:JMSDestinationDetail id="b52c803a0665a111a71a2482857d4161" version="1">
+                <l7:JMSDestination id="b52c803a0665a111a71a2482857d4161" version="2">
+                    <l7:JMSDestinationDetail id="b52c803a0665a111a71a2482857d4161" version="2">
                         <l7:Name>OBRevockeTokenQ</l7:Name>
                         <l7:DestinationName>dynamicQueues/revokeTokenQ</l7:DestinationName>
                         <l7:Inbound>false</l7:Inbound>
@@ -956,9 +988,6 @@
                             <l7:Property key="outbound.MessageType">
                                 <l7:StringValue>AUTOMATIC</l7:StringValue>
                             </l7:Property>
-                            <l7:Property key="password">
-                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,qba4seRiTPsfj24y85eBj58dMjH+zvY90+esjX5KL70=$Ta17vQRuBHbLp7OT17cZWzWmD5BzB04GQ1nwl0bU+PGMuADWspoz2VPMgZPNQ0n/FbIMRRha3jKoLPEvLCLqJQ==</l7:StringValue>
-                            </l7:Property>
                             <l7:Property key="replyType">
                                 <l7:StringValue>AUTOMATIC</l7:StringValue>
                             </l7:Property>
@@ -968,12 +997,9 @@
                             <l7:Property key="useRequestCorrelationId">
                                 <l7:BooleanValue>false</l7:BooleanValue>
                             </l7:Property>
-                            <l7:Property key="username">
-                                <l7:StringValue>admin</l7:StringValue>
-                            </l7:Property>
                         </l7:Properties>
                     </l7:JMSDestinationDetail>
-                    <l7:JMSConnection id="b52c803a0665a111a71a2482857d4160" version="3">
+                    <l7:JMSConnection id="b52c803a0665a111a71a2482857d4160" version="4">
                         <l7:Template>false</l7:Template>
                         <l7:Properties>
                             <l7:Property key="jndi.initialContextFactoryClassname">
@@ -982,14 +1008,8 @@
                             <l7:Property key="jndi.providerUrl">
                                 <l7:StringValue>tcp://amq.security.broadcom.com:61616</l7:StringValue>
                             </l7:Property>
-                            <l7:Property key="password">
-                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,4zOClptg8CEnyOozDAZq+abE4rr0naZPgz441SHUaAw=$4JOSKDP+Boz5cikrN6XfVeAFYIQQV8rG7tqnewDLLuxJ6Vphpsn+tKsBJQbe9qNh2EX0gIxBamBl5fJug1DYXQ==</l7:StringValue>
-                            </l7:Property>
                             <l7:Property key="queue.connectionFactoryName">
                                 <l7:StringValue>ConnectionFactory</l7:StringValue>
-                            </l7:Property>
-                            <l7:Property key="username">
-                                <l7:StringValue>admin</l7:StringValue>
                             </l7:Property>
                         </l7:Properties>
                         <l7:ContextPropertiesTemplate>
@@ -1005,12 +1025,6 @@
                             <l7:Property key="com.l7tech.server.jms.prop.hardwired.service.bool">
                                 <l7:StringValue>false</l7:StringValue>
                             </l7:Property>
-                            <l7:Property key="java.naming.security.credentials">
-                                <l7:StringValue bundleKey="$L7C2$1bead,Jv4ZkxqNft32hrNv4aIhMoSHQrq5ysQjUjcJh1oDjj8=$AL9j9RDYO3tMcylW9KfNxpb36/asnn3nxn3KjD7TNqFNZYc6x4vAAyR9ReB7dA7yb61o28CyP6SFEk7PoBMYsjYBxrp9AZQj6n7pHRYAycPC4pc/jAq5EgeuuknPLWGZ">$L7C2$1,iaXP9a1ijiL236pF8yHA9ug14TzyzRt7XGumBiUG970=$099uJqaFBpHfpXclUcL8m916hzw6ngdzKgUiNvvjvZJ50IzpYd2ow4c8a7lOExa8HAgeLBVtFYJSmpx+Io52wQ==</l7:StringValue>
-                            </l7:Property>
-                            <l7:Property key="java.naming.security.principal">
-                                <l7:StringValue>admin</l7:StringValue>
-                            </l7:Property>
                         </l7:ContextPropertiesTemplate>
                     </l7:JMSConnection>
                 </l7:JMSDestination>
@@ -1020,7 +1034,7 @@
             <l7:Name>JMS - OutBound RevokeToken Queue</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d4170</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.563Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.925Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="b52c803a0665a111a71a2482857d4170" version="2">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="b52c803a0665a111a71a2482857d4170" version="2">
@@ -1115,7 +1129,7 @@
             <l7:Name>JMS - InBound RevokeToke Queue</l7:Name>
             <l7:Id>b52c803a0665a111a71a2482857d41dd</l7:Id>
             <l7:Type>SERVICE</l7:Type>
-            <l7:TimeStamp>2022-05-05T20:59:47.567Z</l7:TimeStamp>
+            <l7:TimeStamp>2022-05-07T13:19:58.929Z</l7:TimeStamp>
             <l7:Resource>
                 <l7:Service id="b52c803a0665a111a71a2482857d41dd" version="2">
                     <l7:ServiceDetail folderId="b52c803a0665a111a71a2482857d4106" id="b52c803a0665a111a71a2482857d41dd" version="2">
